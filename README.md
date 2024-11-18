@@ -5,8 +5,8 @@
 | |_| | |  | | |_| |_|
  \___/|_|  |_|\____(_)
  
-     👠˚ʚ♡ɞ˚👛
-     𝑻𝒉𝒂𝒕 𝒊𝒔 𝒔𝒐𝒐𝒐 𝒇𝒆𝒕𝒄𝒉!
+  👠˚ʚ♡ɞ˚👛
+  𝑻𝒉𝒂𝒕 𝒊𝒔 𝒔𝒐𝒐𝒐 𝒇𝒆𝒕𝒄𝒉!
 ```
 
 ## Step 1:
@@ -17,4 +17,4 @@ Have a large list of things to download.
 sudo python3 ./Fetch.py <filename of URLS>
 ```
 
-FYI- This script will download the current working directory; however, it can be changed to suit your liking.
+This script will download files to the current working directory; however, it can be changed to suit your liking.

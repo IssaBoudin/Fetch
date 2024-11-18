@@ -12,7 +12,7 @@
 ## Step 1:
 Have a large list of things to download.
 
-##Step 2:
+## Usage:
 ```
 sudo python3 ./Fetch.py <filename of URLS>
 ```

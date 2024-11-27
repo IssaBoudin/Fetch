@@ -16,8 +16,8 @@ Have a large list of things to download.
 
 ## Usage:
 ```
-sudo python3 ./Fetch.py <filename of URLS>
+python Fetch.py
 ```
 ![FetchInAction.png](./images/FetchInAction.png)
 
-This script will download files to the current working directory; however, it can be changed to suit your liking.
+This script will prompt you to create a directory for placing downloaded files.

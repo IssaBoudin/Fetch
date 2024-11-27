@@ -12,7 +12,7 @@
 ## Step 1:
 Have a large list of things to download.
 
-![Large_List_of_URLs.png](./images/Large_List_of_URLs.png)
+![List_of_URLs.png](./images/List_of_URLs.png)
 
 ## Usage:
 ```
